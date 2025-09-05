@@ -133,19 +133,19 @@ const style= StyleSheet.create({
     backgroundColor: 'f4f7fa'
   },
   header: {
-    backgroundColor: '#004080'
+    backgroundColor: '#004080',
     padding: 40,
     alignContent: 'center' ,
     alignContent: 'center'
 },
 headerTitle: {
   color: 'white',
-  fontWeight: 'condensedBold'
+  fontWeight: 'condensedBold',
   fontSize: 24,
   fontWeight: 12
 },
 nav: {
-  flexDirection: 'row'
+  flexDirection: 'row',
   justifyContent: 'space-around'
 },
 navButton: {
