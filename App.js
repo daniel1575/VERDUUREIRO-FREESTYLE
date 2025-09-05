@@ -21,7 +21,7 @@ return (
 
 }
 
-
+//fora lula
 function Header({ pagina, setPagina}) {
   return (
     <View style={style.header}>
