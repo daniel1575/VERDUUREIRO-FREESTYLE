@@ -127,6 +127,8 @@ function footer() {
   );
 }
 
+
+
 const style= StyleSheet.create({
   container: {
     flex: 1,
